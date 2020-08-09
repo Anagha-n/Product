@@ -1,0 +1,65 @@
+#home {
+    text-align: center;
+}
+
+.nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+    text-decoration-style: none;
+}
+
+.nav ul li {
+    margin: 0 20px;
+}
+
+body {
+    background-image: linear-gradient(#32ff7e, #18dcff, #7d5fff);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.fa-envelope {
+    color: black;
+    font-size: larger;
+}
+
+.fa-github {
+    color: black;
+    font-size: larger;
+}
+
+#wwyni {
+    background-color: #63cdda;
+}
+
+#features {
+    background-color: #55efc4;
+}
+
+#features,
+#wwyni {
+    height: 250px;
+    width: 600px;
+}
+
+#am {
+    text-align: center;
+}
+
+#features,
+#wwyni>h3 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.t {
+    align-items: center;
+}
